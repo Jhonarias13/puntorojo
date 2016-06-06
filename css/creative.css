@@ -85,12 +85,14 @@ footer a strong:hover{
   background-color: #EB0038;
 }
 
+/*   RESPONSIVE VIDEO  */
+
 .video-ajuste{
 
   height: 0;
-  padding-bottom: 28.125%;
+  padding-bottom: 39.375%;
   position: relative;
-  width: 50%;
+  width: 70%;
 
 }
 .video-ajuste iframe{

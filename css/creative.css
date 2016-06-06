@@ -35,8 +35,15 @@ div.navbar-header a img{
 div h1 span.color-fuente{
   color:#EB0038;
 }
+div h1 span i.fa{
+  color:#EB0038;
+}
 div h1 span.titulo-fino{
   font-weight: lighter;
+  font-size: .9em;
+}
+div h1 span{
+  font-size: 1.1em;
 }
 footer{
   font-weight: normal;

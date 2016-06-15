@@ -66,6 +66,17 @@ footer a strong:hover{
   padding-top: 60px;
 }
 
+#padding{
+  padding-top: 20px;
+}
+
+.letra-media{
+  font-size: 4.2em;
+
+}
+.letra-media span{
+  color: #AB0F2D;
+}
 
 .centro{ /*Centar el header */
   width: 992px;

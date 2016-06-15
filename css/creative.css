@@ -50,7 +50,7 @@ footer{
   font-size: 1.5em;
   font-family: sans-serif;
   text-align: center;
-  padding: 0 0 50px 0;
+  padding: 0 0 10px 0;
 
 }
 footer a strong{
@@ -58,6 +58,11 @@ footer a strong{
 }
 footer a strong:hover{
   text-decoration: none;
+}
+.footer-bg{
+  padding-top: 80px;
+  background: #222222;
+  color: rgba(253, 251, 252, .7);
 }
 .margin-p{
   margin-bottom: 30px;
@@ -137,6 +142,31 @@ footer a strong:hover{
   margin: 0;
 
 }
+#direccion{
+  padding-top: 10px;
+  margin:0;
+}
+#direccion-2{
+  padding-top: 10px;
+  margin: 0;
+}
+#celular{
+  padding-top: 10px;
+  margin: 0;
+}
+#celular > i{
+  margin-right: 8px;
+  text-align: center;
+}
+.social-2{
+  padding-top: 20px;
+  text-align: center;
+
+}
+.social-2 a{
+  padding-left: 20px;
+}
+
 
 
 
@@ -168,6 +198,10 @@ p {
 }
 section {
   padding: 80px 0;
+}
+#contact{
+  padding: 0;
+  padding-top: 80px;
 }
 aside {
   padding: 50px 0;
@@ -263,7 +297,7 @@ header {
   background-size: cover;
   -o-background-size: cover;
   background-position: center;
-  background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('../img/header.jpg');
+  background-image: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('../img/header.jpg');
   text-align: center;
   color: white;
 }

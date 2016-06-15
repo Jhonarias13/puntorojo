@@ -60,9 +60,10 @@ footer a strong:hover{
   text-decoration: none;
 }
 .footer-bg{
-  padding-top: 80px;
+  padding-top: 30px;
   background: #222222;
-  color: rgba(253, 251, 252, .7);
+  color: rgba(253, 251, 252, .8);
+  padding: 30px;
 }
 .margin-p{
   margin-bottom: 30px;
@@ -135,7 +136,9 @@ footer a strong:hover{
 .img-responsive>img{
   width: 100%;
   height: auto;
-
+  top: 0;
+  left: auto;
+  right: auto;
 }
 .titulo-logo{
   padding: 0;
